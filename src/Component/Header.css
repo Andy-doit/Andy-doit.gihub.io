@@ -1,0 +1,90 @@
+
+.line-bg{
+    font-size: 10px;
+    background-color: rgba(0, 0, 0, 0.541);
+    color: white;
+    
+}
+.line-page .search-input{
+    padding-top: 14px;
+}
+.line-page .search-input input{
+    width: 250px;
+    height: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.09);
+    border-radius: 7px;
+
+}
+
+.infor-line{
+    padding-top: 15px;
+}
+.infor-line li{
+    list-style: none;
+    margin-left: 15px;
+  
+}
+.register-line {
+    padding-top: 15px;
+}
+.register-line li{
+    list-style: none;
+    margin-left: 4px;
+   
+}
+/* Heading line */
+.line-main{
+
+   height: 60px;
+   background-color: black;
+   color: aliceblue;
+
+}
+.line-items{
+    padding-top: 15px;
+}
+.line-items div{
+    padding-left: 20px;
+   
+}
+/* Heading bar */
+.bar-main{
+    box-shadow: 0 4px 0 0 rgb(207, 205, 205);
+}
+.bar-main ul{
+    background-color: none;
+}
+.bar-main ul li{
+    padding-left: 16px;
+   
+} 
+.bar-main ul li a{
+   text-decoration: none;
+   color: black;
+   font-weight: 600;
+}
+.item-menu{
+    width: 100px;
+    background-color: black;
+}
+.item-content ul li{
+    list-style: none;
+}
+/* FOOTER */
+.footer-main{
+    background-color: black;
+    color: white;
+    height: fit-content;
+}
+.item-footer p{
+    padding-left: 20px;
+}
+.icon a{
+    font-size: 30px;
+}
+.icon .item-icon{
+    padding:  0 25px;
+}
+.item-about{
+    padding: 20px 0 ;
+}
